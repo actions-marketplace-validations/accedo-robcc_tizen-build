@@ -1,4 +1,4 @@
-name: 'Sourcetoad - Tizen Build'
+name: 'Tizen WGT Build'
 description: 'Build and package a Tizen app'
 author: Sourcetoad
 branding:
