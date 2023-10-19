@@ -1,4 +1,7 @@
 # Tizen Build GitHub Action
+
+Cloned from [sourcetoad/tizen-build-action](https://github.com/sourcetoad/tizen-build-action)
+
 Build and package a Tizen app.
 
 It currently only works for Web applications (.wgt). If you want native app support, please upstream a fix :)
